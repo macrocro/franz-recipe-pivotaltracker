@@ -1,0 +1,12 @@
+{
+  "id": "pivotaltracker",
+  "name": "PivotalTracker",
+  "version": "1.0.0",
+  "description": "PivotalTracker",
+  "main": "index.js",
+  "author": "Yuki Kuroda",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.pivotaltracker.com/"
+  }
+}
